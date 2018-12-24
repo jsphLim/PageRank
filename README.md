@@ -1,7 +1,6 @@
 ### PageRank
 Google PageRank<br>
-To analyse the website of jinan university in Guangzhou<br>
-
+crawl 500 websites from the jinan university's website and show the top 50 pages by pagerank algorithm<br>
 <br>
 
 ![Image](http://www.jsphlim.cn/docs/5.png)
