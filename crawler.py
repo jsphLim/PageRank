@@ -30,7 +30,7 @@ if __name__ == '__main__':
     init = 'http://www.jnu.edu.cn/'
     tmp.append(init)
     while len(websites) < 500 and len(tmp) >= 1:
-        print((len(websites) + 1)+"/500)
+        print(str((len(websites) + 1))+"/500")
         tmp_url = tmp[0]
         del tmp[0]
         get_url(tmp_url)
